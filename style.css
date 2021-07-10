@@ -12,3 +12,21 @@ body{
     text-align: center;
     flex-direction: column;
 }
+.nuevocontenido{
+    background-color: black;
+    display: flex;
+    flex-direction: column;
+    width: 500px;
+    height: 500px;
+    color: coral;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+.cajadecolor{
+    width: 100px;
+    height: 100px;
+    background: cornflowerblue;
+    margin-top: 30px;
+
+}
